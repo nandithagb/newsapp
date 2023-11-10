@@ -4,7 +4,7 @@ import New from "./components/New";
 import {
   BrowserRouter as Router,
   Routes,
-                     Route,
+                            Route,
 } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
